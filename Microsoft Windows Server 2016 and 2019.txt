@@ -1,0 +1,197 @@
+Soure?: Microsoft Evaluation Center? https://www.microsoft.com/en-us/evalcenter/
+#NB-1 Alternate: Change the extension by IMG (* .img)
+Microsoft Hyper-V Server 2016 Evaluations  |  Unlimited
+
+Chinese (S-Simplified)(*.zh-cn), Chinese (T-Traditional)(*.zh-tw), English(*.en-us), French(France)(*.fr-fr), German(Germany)(*.de-de), Italian(Italy)(*.it-it), Japanese(Japan)(*.ja-jp), Korean(Korea)(*.ko-kr), Portuguese Brazil(Brazilian Portuguese)(*.pt-br),  Russian(Russia)(*.ru-ru), Spanish(Spain)(*.es-es).
+
+------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+http://download.microsoft.com/download/8/6/4/86415A8D-0EF5-400A-8B32-707DA461E6EF/14393.0.161119-1705.RS1_REFRESH_SERVERHYPERCORE_OEM_X64FRE_ZH-CN.ISO
+http://download.microsoft.com/download/7/1/4/714AEE9D-B329-4F4C-A9FA-9610687A892C/14393.0.161119-1705.RS1_REFRESH_SERVERHYPERCORE_OEM_X64FRE_ZH-TW.ISO
+http://download.microsoft.com/download/8/8/6/886DAAEF-81A7-4418-82D5-07D33B816962/14393.0.161119-1705.RS1_REFRESH_SERVERHYPERCORE_OEM_X64FRE_EN-US.ISO
+http://download.microsoft.com/download/1/F/B/1FBD3379-18E6-4D6E-8751-D5941DDA618E/14393.0.161119-1705.RS1_REFRESH_SERVERHYPERCORE_OEM_X64FRE_FR-FR.ISO
+http://download.microsoft.com/download/3/E/E/3EEC5034-8F12-4002-AA27-8B929E5A2B8D/14393.0.161119-1705.RS1_REFRESH_SERVERHYPERCORE_OEM_X64FRE_DE-DE.ISO
+http://download.microsoft.com/download/1/8/3/183EF607-0E23-44FA-B435-24EF5CD57D24/14393.0.161119-1705.RS1_REFRESH_SERVERHYPERCORE_OEM_X64FRE_IT-IT.ISO
+http://download.microsoft.com/download/D/4/8/D488D6A1-0A10-40DC-B83F-708BF3AF4A65/14393.0.161119-1705.RS1_REFRESH_SERVERHYPERCORE_OEM_X64FRE_JA-JP.ISO
+http://download.microsoft.com/download/D/E/C/DEC7C6C6-BE35-40E2-9C47-E7BECFC7AF44/14393.0.161119-1705.RS1_REFRESH_SERVERHYPERCORE_OEM_X64FRE_KO-KR.ISO
+http://download.microsoft.com/download/D/5/2/D52C8898-43B0-4A84-803D-79F671A5646A/14393.0.161119-1705.RS1_REFRESH_SERVERHYPERCORE_OEM_X64FRE_PT-BR.ISO
+http://download.microsoft.com/download/0/9/0/090CFA39-E9A3-4711-97DC-17E13723236F/14393.0.161119-1705.RS1_REFRESH_SERVERHYPERCORE_OEM_X64FRE_RU-RU.ISO
+http://download.microsoft.com/download/A/C/2/AC223E80-FDF0-48C2-BB5B-5A79C761610C/14393.0.161119-1705.RS1_REFRESH_SERVERHYPERCORE_OEM_X64FRE_ES-ES.ISO
+
+
+=======================================================================================================================================================
+Microsoft Hyper-V Server 2019, OEM (Updated June 2019)!
+#RTM – (17763.1.rs5_release.180914-1434 /June 11, 2019) 
+
+(Updated June 2019) Evaluations  |  Unlimited
+#Build 10.0.17763.557.rs5_release_svc_refresh.190612-0019
+
+#Languages: 
+Chinese (S-Simplified)(*.zh-cn), Chinese (T-Traditional)(*.zh-tw), English(*.en-us), French(France)(*.fr-fr), German(Germany)(*.de-de), Italian(Italy)(*.it-it), Japanese(Japan)(*.ja-jp), Korean(Korea)(*.ko-kr), Portuguese Brazil(Brazilian Portuguese)(*.pt-br),  Russian(Russia)(*.ru-ru), Spanish(Spain)(*.es-es).
+ 
+-------------------------------------------------------------------------------------------------------------------------------------->
+
+https://software-download.microsoft.com/download/pr/17763.557.190612-0019.rs5_release_svc_refresh_SERVERHYPERCORE_OEM_x64FRE_zh-cn.iso 
+https://software-download.microsoft.com/download/pr/17763.557.190612-0019.rs5_release_svc_refresh_SERVERHYPERCORE_OEM_x64FRE_zh-tw.iso 
+https://software-download.microsoft.com/download/pr/17763.557.190612-0019.rs5_release_svc_refresh_SERVERHYPERCORE_OEM_x64FRE_en-us.iso 
+https://software-download.microsoft.com/download/pr/17763.557.190612-0019.rs5_release_svc_refresh_SERVERHYPERCORE_OEM_x64FRE_fr-fr.iso
+https://software-download.microsoft.com/download/pr/17763.557.190612-0019.rs5_release_svc_refresh_SERVERHYPERCORE_OEM_x64FRE_de-de.iso 
+https://software-download.microsoft.com/download/pr/17763.557.190612-0019.rs5_release_svc_refresh_SERVERHYPERCORE_OEM_x64FRE_it-it.iso 
+https://software-download.microsoft.com/download/pr/17763.557.190612-0019.rs5_release_svc_refresh_SERVERHYPERCORE_OEM_x64FRE_ja-jp.iso 
+https://software-download.microsoft.com/download/pr/17763.557.190612-0019.rs5_release_svc_refresh_SERVERHYPERCORE_OEM_x64FRE_ko-kr.iso 
+https://software-download.microsoft.com/download/pr/17763.557.190612-0019.rs5_release_svc_refresh_SERVERHYPERCORE_OEM_x64FRE_pt-br.iso
+https://software-download.microsoft.com/download/pr/17763.557.190612-0019.rs5_release_svc_refresh_SERVERHYPERCORE_OEM_x64FRE_ru-ru.iso  
+https://software-download.microsoft.com/download/pr/17763.557.190612-0019.rs5_release_svc_refresh_SERVERHYPERCORE_OEM_x64FRE_es-es.iso
+
+
+----------------------------------------------------------------------------------------------------------------------------------->
+
+Windows Server Evaluations
+
+Windows Server 2019
+Editions: Datacenter and Standard (The Datacenter edition is the most complete edition and includes the new Datacenter-specific features (Shielded Virtual Machines, Storage Spaces Direct, and Software-Defined Networking) in addition to unlimited server virtualization.) 
+Evaluations  |  180 days
+https://www.microsoft.com/en-us/evalcenter/
+Chinese(S)(*.zh-cn), English(*.en-us), French(France)(*.fr-fr), German(Germany)(*.de-de), 
+Italian(Italy)(*.it-it), Japanese(Japan)(*.ja-jp), Russian(Russia)(*.ru-ru), Spanish(Spain)(*.es-es).
+
+
+https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_zh-cn.iso
+https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_en-us.iso
+https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_fr-fr.iso
+https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_de-de.iso
+https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_it-it.iso
+https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_ja-jp.iso
+https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_ru-ru.iso
+https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_es-es.iso
+
+
+
+=======================================================================================================================================
+Windows Server Evaluations
+
+Windows Server 2019 Essentials
+Evaluations  |  180 days
+https://www.microsoft.com/en-us/evalcenter/
+Chinese(S)(*.zh-cn), English(*.en-us), French(France)(*.fr-fr), German(Germany)(*.de-de), 
+Italian(Italy)(*.it-it), Japanese(Japan)(*.ja-jp), Russian(Russia)(*.ru-ru), Spanish(Spain)(*.es-es).
+
+
+https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVERESSENTIALS_OEM_x64FRE_zh-cn.iso
+https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVERESSENTIALS_OEM_x64FRE_en-us.iso
+https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVERESSENTIALS_OEM_x64FRE_fr-fr.iso
+https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVERESSENTIALS_OEM_x64FRE_de-de.iso
+https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVERESSENTIALS_OEM_x64FRE_it-it.iso
+https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVERESSENTIALS_OEM_x64FRE_ja-jp.iso
+https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVERESSENTIALS_OEM_x64FRE_ru-ru.iso
+https://software-download.microsoft.com/download/sg/17763.379.190312-0539.rs5_release_svc_refresh_SERVERESSENTIALS_OEM_x64FRE_es-es.iso
+
+
+
+=======================================================================================================================================
+
+
+#KMS Cliente:
+https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys
+
+
+#First option: First option One command at a time!!! 
+DISM /online /Get-CurrentEdition
+DISM /online /Get-TargetEditions
+DISM /online /Set-Edition:[Edition ID] /ProductKey:XXXXX-XXXXX-XXXXX-XXXXX-XXXXX /AcceptEula
+DISM /online /Set-edition:ServerStandard /ProductKey:N69G4-B89J2-4G8F4-WWYCC-J464C /AcceptEula
+DISM /online /Set-edition:ServerDatacenter /ProductKey:WMDGN-G9PQG-XVVXX-R3X43-63DFG /AcceptEula
+DISM /online /Set-edition:ServerDatacenterEval /ProductKey:4WX3D-NPGJF-F4X7B-X9PRX-V24CB /AcceptEula
+
+
+#Second option: One command at a time!!!
+DISM /online /Get-TargetEditions DISM /online /Set-Edition:ServerStandard /
+DISM /online /Get-TargetEditions DISM /online /Set-Edition:ServerDatacenter /
+DISM /online /Get-TargetEditions DISM /online /Set-Edition:ServerDatacenterEval /ProductKey:XXXXX-XXXXX-XXXXX-XXXXX-XXXXX /AcceptEula (reboot)
+slmgr /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
+slmgr /skms [ServerKMS]:1688
+slmgr /ato
+
+
+----------------------------------------------< Other!!! >----------------------------------------------
+Windows Server Evaluations
+
+Windows Server 2019
+RTM Build 17763.1.rs5_release.180914-1434
+Editions: Datacenter and Standard (The Datacenter edition is the most complete edition and includes the new Datacenter-specific features (Shielded Virtual Machines, Storage Spaces Direct, and Software-Defined Networking) in addition to unlimited server virtualization.) 
+Evaluations  |  180 days
+https://www.microsoft.com/en-us/evalcenter/
+Chinese(S)(*.zh-cn), English(*.en-us), French(France)(*.fr-fr), German(Germany)(*.de-de), 
+Italian(Italy)(*.it-it), Japanese(Japan)(*.ja-jp), Russian(Russia)(*.ru-ru), Spanish(Spain)(*.es-es).
+
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVER_EVAL_x64fre_zh-cn.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVER_EVAL_x64fre_en-us.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVER_EVAL_x64fre_fr-fr.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVER_EVAL_x64fre_de-de.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVER_EVAL_x64fre_it-it.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVER_EVAL_x64fre_ja-jp.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVER_EVAL_x64fre_ru-ru.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVER_EVAL_x64fre_es-es.iso
+
+
+Windows Server Evaluations
+
+Windows Server 2019
+RTM Build 17763.1.rs5_release.180914-1434
+Editions: Datacenter and Standard (The Datacenter edition is the most complete edition and includes the new Datacenter-specific features (Shielded Virtual Machines, Storage Spaces Direct, and Software-Defined Networking) in addition to unlimited server virtualization.) 
+Evaluations  |  180 days
+https://www.microsoft.com/en-us/evalcenter/
+Chinese(S)(*.zh-cn), English(*.en-us), French(France)(*.fr-fr), German(Germany)(*.de-de), 
+Italian(Italy)(*.it-it), Japanese(Japan)(*.ja-jp), Russian(Russia)(*.ru-ru), Spanish(Spain)(*.es-es).
+
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERESSENTIALS_OEM_X64FRE_zh-cn.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERESSENTIALS_OEM_X64FRE_en-us.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERESSENTIALS_OEM_X64FRE_fr-fr.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERESSENTIALS_OEM_X64FRE_de-de.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERESSENTIALS_OEM_X64FRE_it-it.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERESSENTIALS_OEM_X64FRE_ja-jp.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERESSENTIALS_OEM_X64FRE_ru-ru.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERESSENTIALS_OEM_X64FRE_es-es.iso
+
+
+Microsoft Hyper-V Server 2019, OEM RTM 
+#Build 17763.1.rs5_release.180914-1434
+
+#Languages: 
+Chinese (S-Simplified)(*.zh-cn), Chinese (T-Traditional)(*.zh-tw), English(*.en-us), French(France)(*.fr-fr), German(Germany)(*.de-de), Italian(Italy)(*.it-it), Japanese(Japan)(*.ja-jp), Korean(Korea)(*.ko-kr), Portuguese Brazil(Brazilian Portuguese)(*.pt-br),  Russian(Russia)(*.ru-ru), Spanish(Spain)(*.es-es).
+
+
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERHYPERCORE_OEM_X64FRE_en-us.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERHYPERCORE_OEM_X64FRE_zh-cn.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERHYPERCORE_OEM_X64FRE_zh-tw.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERHYPERCORE_OEM_X64FRE_fr-fr.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERHYPERCORE_OEM_X64FRE_de-de.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERHYPERCORE_OEM_X64FRE_ja-jp.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERHYPERCORE_OEM_X64FRE_ko-kr.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERHYPERCORE_OEM_X64FRE_pt-br.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERHYPERCORE_OEM_X64FRE_ru-ru.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERHYPERCORE_OEM_X64FRE_es-es.iso
+https://software-download.microsoft.com/download/pr/17763.1.180914-1434.rs5_release_SERVERHYPERCORE_OEM_X64FRE_it-it.iso
+
+
+
+Windows Server Evaluations
+
+Windows Server 2019
+RTM Build 17763.rs5_release.253.190108-0006
+Editions: Datacenter and Standard (The Datacenter edition is the most complete edition and includes the new Datacenter-specific features (Shielded Virtual Machines, Storage Spaces Direct, and Software-Defined Networking) in addition to unlimited server virtualization.) 
+Evaluations  |  180 days
+https://www.microsoft.com/en-us/evalcenter/
+Chinese(S)(*.zh-cn), English(*.en-us), French(France)(*.fr-fr), German(Germany)(*.de-de), 
+Italian(Italy)(*.it-it), Japanese(Japan)(*.ja-jp), Russian(Russia)(*.ru-ru), Spanish(Spain)(*.es-es).
+
+https://software-download.microsoft.com/download/pr/17763.253.190108-0006.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_ZH-CN.img
+https://software-download.microsoft.com/download/pr/17763.253.190108-0006.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_en-us.img
+https://software-download.microsoft.com/download/pr/17763.253.190108-0006.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_FR-FR.img
+https://software-download.microsoft.com/download/pr/17763.253.190108-0006.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_DE-DE.img
+https://software-download.microsoft.com/download/pr/17763.253.190108-0006.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_IT-IT.img
+https://software-download.microsoft.com/download/pr/17763.253.190108-0006.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_JA-JP.img
+https://software-download.microsoft.com/download/pr/17763.253.190108-0006.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_ru-ru.img
+https://software-download.microsoft.com/download/pr/17763.253.190108-0006.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_ES-ES.img
+
+
